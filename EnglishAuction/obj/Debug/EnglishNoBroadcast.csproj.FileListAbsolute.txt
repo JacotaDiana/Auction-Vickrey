@@ -1,0 +1,16 @@
+D:\CloudStation\Did\Masma\MyActress\Auctions\EnglishAuction\EnglishAuction\bin\Debug\EnglishAuction.exe.config
+D:\CloudStation\Did\Masma\MyActress\Auctions\EnglishAuction\EnglishAuction\obj\Debug\EnglishNoBroadcast.csprojResolveAssemblyReference.cache
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\bin\Debug\EnglishAuction.exe.config
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\obj\Debug\EnglishNoBroadcast.csprojResolveAssemblyReference.cache
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\bin\Debug\EnglishAuction.exe
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\bin\Debug\EnglishAuction.pdb
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\bin\Debug\ActressMas.dll
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\bin\Debug\ActressMas.pdb
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\obj\Debug\EnglishAuction.exe
+D:\CloudStation\Did\Masma\MyActress\Auctions\English_no_broadcast\EnglishAuction\obj\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.exe.config
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishNoBroadcast.csprojResolveAssemblyReference.cache
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.pdb

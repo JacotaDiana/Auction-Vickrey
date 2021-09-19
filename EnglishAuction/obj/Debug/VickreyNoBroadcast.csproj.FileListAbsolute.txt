@@ -1,0 +1,6 @@
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.exe.config
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\VickreyNoBroadcast.csprojResolveAssemblyReference.cache
