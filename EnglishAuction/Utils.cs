@@ -4,11 +4,12 @@ namespace VickreyAuction
 {
     public class Utils
     {
-        public static int NoAuctions = 1000;
+        public static int NoAuctions = 3;
         public static int AuctionRealPriceMin = 50; //this is the minimum value of the auctioned product
         public static int AuctionRealPriceMax = 10000; //this is the maximum value of the auctioned product
         public static int NoBiddersMin = 2;
-        public static int NoBiddersMax = 100;
+        public static int NoBiddersMax = 10;
+        public static double ProbabilityToDiscoverCollutions = 100; //actually the probability is 0.3
 
         public static Random RandNoGen = new Random();
 

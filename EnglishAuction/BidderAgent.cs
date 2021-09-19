@@ -7,6 +7,13 @@ namespace VickreyAuction
     public class BidderAgent : TurnBasedAgent
     {
         private int _valuation;
+        private bool _isMallious;
+
+        public BidderAgent(int val, bool isM)
+        {
+            _valuation = val;
+            _isMallious = isM;
+        }
 
         public BidderAgent(int val)
         {
@@ -15,7 +22,11 @@ namespace VickreyAuction
 
         public override void Setup()
         {
-            Console.WriteLine("[{0}]: My valuation is {1}", this.Name, _valuation);
+            if (_isMallious == true)
+            {
+                Console.Write("**");
+            }
+            Console.WriteLine("[{0}]: My valuation is {1}", this.Name, _valuation);        
         }
 
 
@@ -25,7 +36,7 @@ namespace VickreyAuction
             {
                 Message message = messages.Dequeue();
                 
-                Console.WriteLine("\t[{1} -> {0}]: {2}", this.Name, message.Sender, message.Content);
+                //Console.WriteLine("\t[{1} -> {0}]: {2}", this.Name, message.Sender, message.Content);
 
                 string action;
                 string parameters;

@@ -4,3 +4,9 @@ D:\Disertatie\New folder\ceva\English\English\EnglishAuction\bin\Debug\EnglishAu
 D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.exe
 D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\EnglishAuction.pdb
 D:\Disertatie\New folder\ceva\English\English\EnglishAuction\obj\Debug\VickreyNoBroadcast.csprojResolveAssemblyReference.cache
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\bin\Debug\EnglishAuction.exe.config
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\obj\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\obj\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\bin\Debug\EnglishAuction.exe
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\bin\Debug\EnglishAuction.pdb
+D:\Disertatie\New folder\git\Vickrey\EnglishAuction\obj\Debug\VickreyNoBroadcast.csprojResolveAssemblyReference.cache
