@@ -6,11 +6,29 @@ using System.Threading.Tasks;
 
 namespace VickreyAuction
 {
-    class Collutions
+    //This class is not used yet
+    public class Collution
     {
-        private BidderAgent bidderAgent1;
-        private BidderAgent bidderAgent2;
+        private BidderAgent _bidderAgent1;
+        private BidderAgent _bidderAgent2;
+        private int _procentToBeDiscovered = 0;
 
-        //public void send
+        public Collution(BidderAgent bidder1, BidderAgent bidder2, int procentToBeDiscovered)
+        {
+            _bidderAgent1 = bidder1;
+            _bidderAgent2 = bidder2;
+            _procentToBeDiscovered = procentToBeDiscovered;
+        }
+
+        public KeyValuePair<string, string> removeIfDiscovered()
+        {
+            int procentToChoose = Utils.RandNoGen.Next(0, 100);
+
+            if (_procentToBeDiscovered <= procentToChoose)
+            {
+                return new KeyValuePair<string, string>(_bidderAgent1.Name, _bidderAgent2.Name);
+            }
+            return new KeyValuePair<string, string>("", "");
+        }
     }
 }
